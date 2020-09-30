@@ -1,4 +1,4 @@
-# Dataquest Project Solutions
+# Dataquest Guided Project Solutions
 
 This repository is a series of notebooks that show solutions for the [projects](https://www.dataquest.io/apply) at [Dataquest.io](https://www.dataquest.io/).
 
